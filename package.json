@@ -1,0 +1,7 @@
+{
+  "name": "deagensie-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "node build.cjs" },
+  "devDependencies": { "tailwindcss": "4.3.3" }
+}
